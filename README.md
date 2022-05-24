@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @fritzahern
 - 👀 I’m interested in physics, particularly nuclear energy
-- 🌱 I’m currently learning physics and data science at UC Berkeley
 - 💞️ I’m looking to collaborate on data science projects
 - 📫 How to reach me email works best
 
